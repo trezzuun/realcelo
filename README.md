@@ -1,4 +1,4 @@
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:id)
 <h1 align="center">𝙂 𝘼 𝙍 𝙓 𝙐</h1>
 <div align="center">
     <a href="https://discord.com/users/851896604066840649" title="Discord Profile"><img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:id)"></a>
