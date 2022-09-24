@@ -1,4 +1,4 @@
-<h1 align="center">𝙂𝘼𝙍𝙓𝙐</h1>
+<h1 align="center">NotCliqnt</h1>
 <div align="center">
     <a href="https://discord.com/users/851896604066840649" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/851896604066840649"></a>
 </div>
