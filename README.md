@@ -45,7 +45,6 @@
     </a>
 </div
 <br/>
----
 <br/>
   <h2 align="center"> 📈 Statistics </h2>
   <div align="center"> 
