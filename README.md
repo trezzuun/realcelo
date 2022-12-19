@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://asurabot.netlify.app"><img src="https://count.getloli.com/get/@:realcelo" alt="realcelo" /></a>
+  <a href="https://asurabot.netlify.app"><img src="https://count.getloli.com/get/@:realcelo?theme=rule34" alt="realcelo" /></a>
 </p>
 
 <h2 align="center"> 🎧 Currently Listening to </h2>
