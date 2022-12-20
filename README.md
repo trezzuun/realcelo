@@ -7,8 +7,11 @@
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/787915661186957312" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/787915661186957312/animated=true"></a>
     <a href="https://asurabot.netlify.app"><img src="https://count.getloli.com/get/@:realcelo?theme=rule34" alt="realcelo" /></a>
+</div>
+
+<div align="center">
+    <a href="https://discord.com/users/787915661186957312" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/787915661186957312/animated=true"></a>
 </div>
 
 <img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
