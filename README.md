@@ -1,6 +1,14 @@
 <!-- ### Hi 👋, I'm Kasun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 ![](https://visitor-badge.glitch.me/badge?page_id=kasuncfdo.kasuncfdo) -->
 
+<div> 
+<a href="https://app.daily.dev/kasuncfdo">
+<img 
+     align="right" alt="Kasun's Dev Card" height="300"
+     style="border-radius:50px;"src="https://api.daily.dev/devcards/93a5425cf7ac43598f4efd2cb3a5b099.png?r=v8c" />
+</a>
+</div>
+
 <div align="center">
     <a href="https://discord.com/users/787915661186957312" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/787915661186957312/animated=true"></a>
 </div>
