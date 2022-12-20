@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=kasuncfdo.kasuncfdo) -->
 
 <div> 
-<a href="https://app.daily.dev/realcelo">
+<a href="https://app.daily.dev/realcleo">
 <img 
      align="right" alt="Celo's Dev Card" height="300"
      style="border-radius:50px;"src="https://api.daily.dev/devcards/93a5425cf7ac43598f4efd2cb3a5b099.png?r=v8c" />
