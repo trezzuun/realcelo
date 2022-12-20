@@ -62,9 +62,6 @@
 <a href="https://twitter.com/realcel0">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://lk.linkedin.com/in/kcfernando">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/realcel0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkasuncfdo&screen_name=kasuncfdo)
 
