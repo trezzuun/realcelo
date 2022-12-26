@@ -10,6 +10,10 @@
     <a href="https://asurabot.netlify.app"><img src="https://count.getloli.com/get/@:realcelo?theme=rule34" alt="realcelo" /></a>
 </div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Coding%20|%20Car%20Enthusiast;Graphic%20Designer;I'am%20Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
 <div align="center">
     <a href="https://discord.com/users/787915661186957312" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/787915661186957312/animated=true"></a>
 </div>
