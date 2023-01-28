@@ -18,8 +18,6 @@
     <a href="https://discord.com/users/787915661186957312" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/787915661186957312/animated=true"></a>
 </div>
 
-//<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
-
 <h1 align="center"> 🎧 Currently Listening to </h1>
 <p align="center">
   <a href="https://open.spotify.com/user/314urhjcbr4l3neupemzntfzysmy"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314urhjcbr4l3neupemzntfzysmy&cover_image=true&theme=novatorem&show_offline=false&bar_color=000000&bar_color_cover=true"></a>
@@ -56,8 +54,6 @@
 <img height="120" width="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realcelo&layout=compact&langs_count=7&theme=gotham"/>
 </a>
 </div>
-
-//<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
 
 ### Connect with me
 <a href="https://discord.com/users/787915661186957312">
