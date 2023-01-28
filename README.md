@@ -18,7 +18,7 @@
     <a href="https://discord.com/users/787915661186957312" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/787915661186957312/animated=true"></a>
 </div>
 
-<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
+//<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
 
 <h1 align="center"> 🎧 Currently Listening to </h1>
 <p align="center">
@@ -57,7 +57,7 @@
 </a>
 </div>
 
-<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
+//<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
 
 ### Connect with me
 <a href="https://discord.com/users/787915661186957312">
