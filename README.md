@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <a href="https://asurabot.netlify.app"><img src="https://count.getloli.com/get/@:realcelo?theme=rule34" alt="realcelo" /></a>
+    <a href="https://cuhh.netlify.app"><img src="https://count.getloli.com/get/@:realcelo?theme=rule34" alt="realcelo" /></a>
 </div>
 
 <p align="center">
